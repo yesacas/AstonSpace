@@ -1,1 +1,0 @@
-Save copy of Astonlink V3.  Made changes to use Bootstrapping and reconfiguration.  Also added some jquery for language buttons.
